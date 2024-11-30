@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </header>
+    <main>
+        <section>
+            <h2>เกี่ยวกับฉัน</h2>
+            <p>สวัสดี! ฉันชื่อ {{ site.author }} และนี่คือเว็บไซต์แนะนำตัวของฉัน</p>
+        </section>
+        <section>
+            <h2>ข้อมูลการติดต่อ</h2>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                {% for link in site.social_links %}
+                <li><strong>{{ link.name }}:</strong> <a href="{{ link.url }}">{{ link.url }}</a></li>
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; {{ site.author }} - {{ site.time | date: "%Y" }}</p>
+    </footer>
+</body>
+</html>
