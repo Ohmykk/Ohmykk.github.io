@@ -13,4 +13,4 @@
  
 
 **ตัวอย่างในชีวิตประจำวัน: หน่วยงานที่จัดการข้อมูลลับ ผู้ใช้งานในระดับเดียวกันจะไม่ได้รับอนุญาตให้เข้าถึงข้อมูลของกันและกัน เว้นแต่ข้อมูลนั้นมีความเกี่ยวข้องกับภารกิจที่ทำร่วมกัน**  
-URL: <a href="https://zenogarb.github.io/ZeNoGarb.io/parity-bits">ZeNoGarb.github.io/parity-bits
+URL: <a href="[https://zenogarb.github.io/ZeNoGarb.io/parity-bits](https://zenogarb.github.io/ZeNoGarb.io/parity-bits)">ZeNoGarb.github.io/parity-bits
