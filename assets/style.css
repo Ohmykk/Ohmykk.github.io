@@ -36,9 +36,10 @@ footer {
 }
 .profile-img {
     display: block;
-    max-width: 150px;
-    margin: 0 auto;
-    border-radius: 50%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    border: 4px solid #007acc;
+    max-width: 150px; /* กำหนดความกว้างสูงสุด */
+    height: auto; /* ให้ความสูงปรับตามสัดส่วน */
+    margin: 20px auto; /* จัดให้อยู่กึ่งกลาง */
+    border-radius: 50%; /* ทำให้ภาพเป็นวงกลม */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* เพิ่มเงา */
+    border: 4px solid #007acc; /* เพิ่มกรอบรอบรูป */
 }
