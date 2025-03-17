@@ -13,4 +13,4 @@
  
 
 **ตัวอย่างในชีวิตประจำวัน: ทำสำเนาแต่ละหน้ากระจายไปให้เพื่อนหลายคน ถ้าหน้าใดหน้าหนึ่งหายไป คุณยังสามารถรวบรวมสำเนาที่เหลือจากเพื่อน ๆ เพื่อกู้คืนเนื้อหาที่หายไปได้**  
-URL: <a href="[https://zenogarb.github.io/ZeNoGarb.io/parity-bit](https://zenogarb.github.io/parity-bits)s">ZeNoGarb.github.io/parity-bits
+URL: <a href="https://zenogarb.github.io/parity-bits">ZeNoGarb.github.io/parity-bits
