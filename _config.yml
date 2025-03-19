@@ -1,3 +1,5 @@
-theme: Time machine
 title: [iTACHi]
 description: [6530250310]
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-chirpy
