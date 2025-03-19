@@ -34,8 +34,7 @@
 
 ![BoardGame](Picture/bg1.png)
 
-
-![BoardGame](picture/bg2.png)
+![BoardGame](Picture/bg2.png)
 
 ## สมาชิกภายในกลุ่ม
 [Pattaravut Sukbot](https://pattaravut.github.io/)
