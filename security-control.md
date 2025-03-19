@@ -4,7 +4,7 @@ Unlock computer
 
 Location : my computer
 
-![sc](picture/sc.png)
+![sc](Picture/sc.png)
 
  - Types of Security Controls: Technical Controls
  - Control Functions : Preventive Controls
