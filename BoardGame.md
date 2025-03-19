@@ -32,9 +32,9 @@
 
 #### บรรยากาศภายในการทำกิจกรรมการเล่นบอร์ดเกม
 
-![Image](picture/bg1.jpg)
+![BoardGame](picture/bg1.jpg)
 
-![Image](picture/bg2.jpg)
+![BoardGame](picture/bg2.jpg)
 
 ## สมาชิกภายในกลุ่ม
 [Pattaravut Sukbot](https://pattaravut.github.io/)
