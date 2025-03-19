@@ -32,7 +32,7 @@
 
 #### บรรยากาศภายในการทำกิจกรรมการเล่นบอร์ดเกม
 
-![BoardGame](picture/bg1.jpg)
+![BoardGame](Picture/bg1.png)
 
 ![BoardGame](picture/bg2.jpg)
 
